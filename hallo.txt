@@ -4,10 +4,6 @@ Brian ist die könig von der dead.
 
 This is a master change.
 
-
-
-
+this is a change for rebase.
 
 this is a master2 change.
-
-
